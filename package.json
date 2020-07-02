@@ -1,4 +1,26 @@
 {
   "name": "md-links",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "description": "## Índice",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mdLinks()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thalitagoncalves/SAP004-md-links.git"
+  },
+  "author": "Thalita Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thalitagoncalves/SAP004-md-links/issues"
+  },
+  "homepage": "https://github.com/thalitagoncalves/SAP004-md-links#readme",
+  "dependencies": {
+    "eslint": "^7.3.1",
+    "jest": "^26.1.0"
+  }
 }
