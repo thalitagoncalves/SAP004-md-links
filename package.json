@@ -15,11 +15,15 @@
   },
   "author": "Thalita Gonçalves",
   "license": "ISC",
+  "bin": {
+    "todo": "cli.js"
+  },
   "bugs": {
     "url": "https://github.com/thalitagoncalves/SAP004-md-links/issues"
   },
   "homepage": "https://github.com/thalitagoncalves/SAP004-md-links#readme",
   "dependencies": {
+    "commander": "^5.1.0",
     "eslint": "^7.3.1",
     "jest": "^26.1.0"
   }
