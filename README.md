@@ -29,6 +29,8 @@ Para buscar os links do seu arquivo md, execute o seguinte comando:
 
 Os resultados serão exibidos no terminal da seguinte forma:
 
-``` text: texto "clicável"
-    link: URL
-    file: caminho do arquivo```
+``` 
+text: texto "clicável"
+link: URL
+file: caminho do arquivo
+```
