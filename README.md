@@ -19,6 +19,16 @@ Esta biblioteca tem a intenção de ler e analisar arquivos no formato
 
 ## 2. Uso da Biblioteca
 
-Para instalar, use o seguinte comando no seu projeto: 
+Para instalar, use o seguinte comando no terminal: 
 
-```npm i md-links-thalitagoncalves```
+```$ npm i md-links-thalitagoncalves```
+
+Para buscar os links do seu arquivo md, execute o seguinte comando: 
+
+```$ todo ./caminho-do-seu-diretrio/```
+
+Os resultados serão exibidos no terminal da seguinte forma:
+
+``` text: texto "clicável"
+    link: URL
+    file: caminho do arquivo```
