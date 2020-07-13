@@ -4,6 +4,8 @@
 
 * [1. Prefácio](#1-prefácio)
 * [2. Uso da Biblioteca](#2-uso-da-biblioteca)
+* [3. Considerações Gerais](#3-consideracoes-gerais)
+* [4. Tecnologias Utilizadas](#4-tecnologias-utilizadas)
 
 ## 1. Prefácio
 
@@ -34,3 +36,13 @@ text: texto "clicável"
 link: URL
 file: caminho do arquivo
 ```
+
+## 3. Considerações Gerais
+Atualmente, essa biblioteca apenas identifica os links presentes no documento Markdown. Nas versões futuras será implementado validação dos links. 
+
+## 4. Tecnologia Utilizadas
+
+* JavaScript
+* Node.js
+* Jest
+* NPM
