@@ -21,13 +21,10 @@ Esta biblioteca tem a intenção de ler e analisar arquivos no formato
 
 ## 2. Uso da Biblioteca
 
-Para instalar, use o seguinte comando no terminal: 
+Para instalar e executar, rode o seguinte comando no terminal: 
 
-```$ npm i md-links-thalitagoncalves```
+```$ npx https://github.com/thalitagoncalves/SAP004-md-links/ ./ ```
 
-Para buscar os links do seu arquivo md, execute o seguinte comando: 
-
-```$ todo ./caminho-do-seu-diretrio/```
 
 Os resultados serão exibidos no terminal da seguinte forma:
 
