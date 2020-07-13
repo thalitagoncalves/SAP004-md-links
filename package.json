@@ -2,7 +2,7 @@
   "name": "md-links",
   "version": "0.1.0",
   "description": "## Índice",
-  "main": "index.js",
+  "main": "filter-md-links.js",
   "directories": {
     "test": "test"
   },
