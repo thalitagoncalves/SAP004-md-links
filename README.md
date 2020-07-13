@@ -29,7 +29,7 @@ Para instalar globalmente, execute o seguinte comando:
 
 ```npm i -g  https://github.com/thalitagoncalves/SAP004-md-links```
 
-Quando a biblioteca estiver instalada globalmente, execute o seguinte comando para que a biblioteca verifique o arquivo ".md" do seu diretório: 
+Quando a biblioteca estiver instalada globalmente, dirija-se para o diretório cujo a busca de links em um arquivo ".md" será necessária e execute o seguinte comando no terminal:
 
 ```todo ./```
 
