@@ -21,10 +21,17 @@ Esta biblioteca tem a intenção de ler e analisar arquivos no formato
 
 ## 2. Uso da Biblioteca
 
-Para instalar e executar, rode o seguinte comando no terminal: 
+Para executar momentaneamente rode o seguinte comando no terminal: 
 
 ```$ npx https://github.com/thalitagoncalves/SAP004-md-links/ ./ ```
 
+Para instalar globalmente, execute o seguinte comando:
+
+```npm i -g  https://github.com/thalitagoncalves/SAP004-md-links```
+
+Quando a biblioteca estiver instalada globalmente, execute o seguinte comando para que a biblioteca verifique o arquivo ".md" do seu diretório: 
+
+```todo ./```
 
 Os resultados serão exibidos no terminal da seguinte forma:
 
