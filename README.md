@@ -5,8 +5,6 @@
 * [1. Prefácio](#1-prefácio)
 * [2. Uso da Biblioteca](#2-uso-da-biblioteca)
 
-***
-
 ## 1. Prefácio
 
 [Markdown](https://pt.wikipedia.org/wiki/Markdown) é uma linguagem de marcação
